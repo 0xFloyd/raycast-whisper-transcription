@@ -1,38 +1,0 @@
-Sun Sep  1 22:28:17 EDT 2024: Script started. Lockfile status: does not exist
-Sun Sep  1 22:28:17 EDT 2024: Starting recording to /Users/floyd/Documents/GitHub/Raycast Scripts/raycast-transcription/past/recording.wav
-Sun Sep  1 22:28:17 EDT 2024: Script ended
-ffmpeg version 7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 15.0.0 (clang-1500.3.9.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.0.2 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59.  8.100 / 59.  8.100
-  libavcodec     61.  3.100 / 61.  3.100
-  libavformat    61.  1.100 / 61.  1.100
-  libavdevice    61.  1.100 / 61.  1.100
-  libavfilter    10.  1.100 / 10.  1.100
-  libswscale      8.  1.100 /  8.  1.100
-  libswresample   5.  1.100 /  5.  1.100
-  libpostproc    58.  1.100 / 58.  1.100
-2024-09-01 22:28:18.012 ffmpeg[83006:5280221] WARNING: Add NSCameraUseContinuityCameraDeviceType to your Info.plist to use AVCaptureDeviceTypeContinuityCamera.
-2024-09-01 22:28:18.157 ffmpeg[83006:5280221] WARNING: AVCaptureDeviceTypeExternal is deprecated for Continuity Cameras. Please use AVCaptureDeviceTypeContinuityCamera and add NSCameraUseContinuityCameraDeviceType to your Info.plist.
-Input #0, avfoundation, from ':0':
-  Duration: N/A, start: 308058.645688, bitrate: 1024 kb/s
-  Stream #0:0: Audio: pcm_f32le, 16000 Hz, stereo, flt, 1024 kb/s
-Stream mapping:
-  Stream #0:0 -> #0:0 (pcm_f32le (native) -> pcm_s16le (native))
-Press [q] to stop, [?] for help
-Output #0, wav, to '/Users/floyd/Documents/GitHub/Raycast Scripts/raycast-transcription/past/recording.wav':
-  Metadata:
-    ISFT            : Lavf61.1.100
-  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 16000 Hz, stereo, s16, 512 kb/s
-      Metadata:
-        encoder         : Lavc61.3.100 pcm_s16le
-size=      30KiB time=00:00:00.51 bitrate= 481.2kbits/s speed=1.01x    size=      62KiB time=00:00:01.02 bitrate= 496.6kbits/s speed=1.01x    size=      94KiB time=00:00:01.53 bitrate= 501.7kbits/s speed=1.01x    size=     124KiB time=00:00:02.01 bitrate= 504.2kbits/s speed=   1x    size=     156KiB time=00:00:02.52 bitrate= 505.8kbits/s speed=   1x    size=     188KiB time=00:00:03.04 bitrate= 506.8kbits/s speed=1.01x    size=     220KiB time=00:00:03.55 bitrate= 507.6kbits/s speed=1.01x    size=     252KiB time=00:00:04.06 bitrate= 508.1kbits/s speed=1.01x    size=     256KiB time=00:00:04.54 bitrate= 461.5kbits/s speed=   1x    Sun Sep  1 22:28:23 EDT 2024: Script started. Lockfile status: exists
-Sun Sep  1 22:28:23 EDT 2024: Stopping recording
-Sun Sep  1 22:28:23 EDT 2024: Transcribe and paste started. Output file: /Users/floyd/Documents/GitHub/Raycast Scripts/raycast-transcription/past/recording.wav
-Sun Sep  1 22:28:23 EDT 2024: Recording file exists. Size:   262144 bytes
-[out#0/wav @ 0x60000305c3c0] video:0KiB audio:310KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.024572%
-size=     310KiB time=00:00:04.96 bitrate= 512.1kbits/s speed=   1x    
-Exiting normally, received signal 15.
-Sun Sep  1 22:28:23 EDT 2024: Transcription complete. Exit code: 0
-Sun Sep  1 22:28:24 EDT 2024: Transcription pasted and saved to /Users/floyd/Documents/GitHub/Raycast Scripts/raycast-transcription/past/transcription_2024-09-01_22-28-23.txt
-Sun Sep  1 22:28:24 EDT 2024: Script ended
